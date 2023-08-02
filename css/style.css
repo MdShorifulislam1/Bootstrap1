@@ -1,0 +1,53 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+body{
+	font-family: serif;
+	font-size: 14px;
+	line-height: 1.7em;
+}
+h1, h2, h3, h4, h5, h6{
+	font-family: serif;
+}
+a, a:hover{
+	text-decoration: none;
+}
+
+.bg1{
+	background: #000;
+	height: 200px;
+}
+.bg2{
+	background: #229dbc;
+	height: 200px;
+}
+.bg3{
+	background: red;
+	height: 200px;
+}
+.bg4{
+	background: yellow;
+	height: 200px;
+}
+.h1, h1 {
+    font-size: calc(1.375rem + 1.5vw);
+    text-align: center;
+}
+ .card-img, .card-img-bottom, .card-img-top {
+    width: 100%;
+    margin: 0px 380px;
+}
+.card-img, .card-img-bottom, .card-img-top {
+    width: 100%;
+    margin: 0px;
+}
+.col-lg-4 {
+    flex: 0 0 auto;
+    width: 33.33333333%;
+    margin: 0px 440px;
+}
+.col {
+    flex: 1 0 0%;
+    color: blue;
+}
